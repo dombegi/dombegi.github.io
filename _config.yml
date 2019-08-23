@@ -5,7 +5,7 @@ description:        "Dogyun's personal page"
 reading_time:       true
 words_per_minute:   200
 logo:               'assets/img/logo2.jpg'
-background:         'assets/img/place-holder3.jpg'
+background:         'assets/img/place-holder2.jpg'
 tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
 locale:             en_US
 url:                https://dombegi.github.io

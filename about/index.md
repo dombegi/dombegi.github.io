@@ -9,7 +9,7 @@ comments: false
 I am a young researcher in plasma physics and controlled fusion; I am currently pursuing the Ph.D degree at Nagoya University. I love to play football and enjoy watching the league of legend a.k.a. LOL.</center>
 
 ## Affiliation
-Ph.D student (D3)
+#Ph.D student (D3)
 Laboratory of Plasma Energy Engineering
 Department of Electrical Engineering, Graduate School of Engineering
 Nagoya University
@@ -21,13 +21,13 @@ Department of Electrical Engineering, Electronics and Information Engineering, N
 Department of Energy Engineering and Science, Nagoya University
 * Ph.D
 Department of Electrical Engineering, Nagoya University
-Supervisor: Noriyasu Ohno
+#Supervisor: Noriyasu Ohno
 
 ## Research experiences
 * Center for Energy Research, UC San Diego, USA (2017.09-2017.12, 2019.01-2019.02)
-Arc ignition on fuzzy surfaces perpendicular to the magnetic field
+#Arc ignition on fuzzy surfaces perpendicular to the magnetic field
 * Max-Planck-Institute for Plasma Physics, Greifswald, Germany (2017.01)
-Inspection of arc trails on plasma-facing walls in the stellarator W7-X
+#Inspection of arc trails on plasma-facing walls in the stellarator W7-X
 
 ## Scholarships
 * Korea-Japan Joint Government Scholarship Program for Students in Departments of Science and Engineering (2008.03-2012.03)

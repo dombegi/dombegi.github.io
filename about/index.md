@@ -6,7 +6,7 @@ date: 2019-08-24
 comments: false
 ---
     
-I am a young researcher in plasma physics and controlled fusion; I am currently pursuing the Ph.D degree at Nagoya University. I love to play football and enjoy watching the league of legend a.k.a. LOL.</center>
+<center>I am a young researcher in plasma physics and controlled fusion; I am currently pursuing the Ph.D degree at Nagoya University. I love to play football and enjoy watching the league of legend a.k.a. LOL.</center>
 
 ## Affiliation
 #Ph.D student (D3)

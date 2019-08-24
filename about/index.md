@@ -13,6 +13,6 @@ comments: false
 
 <center>I am a young researcher in plasma physics and controlled fusion; I am currently pursuing the Ph.D degree at Nagoya University. I love to play football and enjoy watching the league of legend a.k.a. LOL.</center>
 
-## Please find the cv in the link below:
-<div markdown="0"><a href="https://www.dropbox.com/s/2jez1kguilo3zvd/cv_dogyun.pdf?dl=0" class="btn" target="_blank">CV</a></div>
+## Please find the links below:
+<div markdown="0"><a href="https://www.dropbox.com/s/2jez1kguilo3zvd/cv_dogyun.pdf?dl=0" class="btn" target="_blank">CV</a><a href="https://scholar.google.co.jp/citations?user=7m9WB2wAAAAJ&hl=en&oi=ao" class="btn" target="_blank">Google scholar</a></div>
 

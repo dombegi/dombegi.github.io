@@ -13,11 +13,11 @@ comments: false
 
 I am a young researcher in plasma physics and controlled fusion; plasma-surface interactions; atmospheric plasma sources and its applications. I am originally from South Korea and currently working as an assistant professor at University of Tsukuba, Japan. I love to play football and enjoy watching the league of legend (usually LCK, LoL Champions Korea where I specially support Lee "Faker" Sang-Hyeok), though I am all thumbs with it, haha.
 
-*********
-Affiliation
-Faculty of Pure and Applied Sciences, University of Tsukuba
-Plasma research center, University of Tsukuba
-Tel:+81-29-853-7474, (sub)+81-29-853-4325
+*********<br>
+Affiliation<br>
+Faculty of Pure and Applied Sciences, University of Tsukuba<br>
+Plasma research center, University of Tsukuba<br>
+Tel:+81-29-853-7474, (sub)+81-29-853-4325<br>
 
 
 

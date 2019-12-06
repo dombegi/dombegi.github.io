@@ -11,9 +11,16 @@ comments: false
 	<figcaption>Grinning after climbing Mt. Fuji, in 18 Aug 2018.</figcaption>
 </figure>
 
-<center>I am a young researcher in plasma physics and controlled fusion; plasma-surface interactions; atmospheric plasma sources and its applications. I am originally from South Korea and currently working as an assistant professor at University of Tsukuba, Japan. I love to play football and enjoy watching the league of legend (usually LCK, LoL Champions Korea where I specially support Lee "Faker" Sang-Hyeok), though I am all thumbs with it, haha.
-</center>
+I am a young researcher in plasma physics and controlled fusion; plasma-surface interactions; atmospheric plasma sources and its applications. I am originally from South Korea and currently working as an assistant professor at University of Tsukuba, Japan. I love to play football and enjoy watching the league of legend (usually LCK, LoL Champions Korea where I specially support Lee "Faker" Sang-Hyeok), though I am all thumbs with it, haha.
 
-## Please find the links below:
+*********
+Affiliation
+Faculty of Pure and Applied Sciences, University of Tsukuba
+Plasma research center, University of Tsukuba
+Tel:+81-29-853-7474, (sub)+81-29-853-4325
+
+
+
+## Please find the links for my accomplishments below:
 <div markdown="0"><a href="https://www.dropbox.com/s/2jez1kguilo3zvd/cv_dogyun.pdf?dl=0" class="btn" target="_blank">CV</a><a href="https://scholar.google.co.jp/citations?user=7m9WB2wAAAAJ&hl=en&oi=ao" class="btn" target="_blank">Google scholar</a></div>
 

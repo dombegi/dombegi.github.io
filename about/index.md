@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About Dogyun Hwangbo (As of Dec. 2019)
+title: About Dogyun Hwangbo
 tags: [about, cv, profile]
 date: 2019-08-24
 comments: false

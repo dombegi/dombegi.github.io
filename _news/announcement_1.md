@@ -1,8 +1,11 @@
 ---
 layout: post
-date: 2015-10-22 15:59:00-0400
-inline: true
+date: 2022-01-10
+inline: false
+title: Certified as the IOP Trusted Reviewer
 related_posts: false
 ---
 
-A simple inline announcement.
+Insitute of Physics Publishing (IOP) より、IOP trusted reviewer資格を付与されました。
+Recently, an email was sent from IOP publishing, informing that I have achieved IOP trusted reviewer status. This is the certificate.
+![certificate](assets/img/post_img/iop.png){: height="640"}

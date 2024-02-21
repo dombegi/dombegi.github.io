@@ -30,7 +30,5 @@ University of Tsukuba, Japan
 Plasma Research Center, 1-1-1 Tennodai, Tsukuba, Ibaraki 305-8577 Japan  
 Tel: +81-29-853-7474, (sub)+81-29-853-4325
 
-### Visit Plasma Research Center: 
+### Visit Plasma Research Center 
 [JP](https://www.prc.tsukuba.ac.jp/ja/){:target="_blank"} [EN](https://www.prc.tsukuba.ac.jp/en/){:target="_blank"}
-
-Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.

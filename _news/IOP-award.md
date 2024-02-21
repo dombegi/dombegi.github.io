@@ -1,0 +1,25 @@
+---
+layout: post
+title: IOP Outstanding Reviewer Awards 2021 for Physica Scripta
+date: 2022-04-26 
+inline: false
+related_posts: false
+---
+<!-- 줄바꿈: 문장 뒤에 스페이스 두번 -->
+<!-- 문단 바꿈: 엔터 두번 -->
+
+
+<!-- Comment here. inline comment here -->
+
+IOP出版誌であるPhysica Scriptaからレビュアー賞をもらいました。  
+IOP publishing recognised me as an Outstading Reviewer for Physica Scripta in 2021.
+
+<div class="row mt-3 justify-content-center">
+    <!-- 70% width for middle-over screean, 100% for small -->
+    <div class="col-12 col-md-7 mt-3 mt-md-0"> 
+        {% include figure.liquid path="assets/img/post_img/PhysScr.png" class="img-fluid rounded z-depth-1" zoomable=true %}
+    </div>
+</div>
+<div class="caption">
+
+</div>

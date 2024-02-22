@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Etc.
+subtitle: <a href='https://trios.tsukuba.ac.jp/en/researcher/0000004339'>Affiliations</a>. Address. Contacts. Etc.
 
 profile:
   align: right

@@ -2,7 +2,7 @@
 layout: page
 title: projects
 permalink: /projects/
-description: Collection of my projects.
+description: Delivers summary of old projects that are allowed open to public.
 nav: false
 nav_order: 5
 display_categories: [work, fun]

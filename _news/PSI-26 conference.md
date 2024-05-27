@@ -1,7 +1,7 @@
 ---
 layout: post
 title: PSI-26 conference
-date: 2024-03-11 
+date: 2024-05-17 
 inline: false
 related_posts: false
 ---

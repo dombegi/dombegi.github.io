@@ -19,16 +19,18 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-I am a South Korean young researcher living in Japan since 2008. I was majored in Engineering and especially insterested in plasma physics and controlled fusion; plasma-surface interactions; atmospheric plasma sources and its applications. I am currently working at the University of Tsukuba as an assistant professor. I love to watch football matches, which I try to find for a local football team there when I go abroad for experiments. I also enjoy watching e-sports matches for the League of Legends.
+A young South Korean researcher living in Japan since 2008; Insterested in topics of plasma physics and controlled fusion: plasma-surface interactions, divertor-relevant physics, atmospheric plasma sources and its applications.
 
 ## Affiliation  
+Assistant Professor
 Faculty of Pure and Applied Sciences  
 Collaborating with the Plasma Research Center (PRC)  
 University of Tsukuba, Japan
 
 ## Address, Contacts
-Plasma Research Center, 1-1-1 Tennodai, Tsukuba, Ibaraki 305-8577 Japan  
-Tel: +81-29-853-7474, (sub)+81-29-853-4325
+Main: Plasma Research Center, Tel: +81-29-853-7474
+Sub: #607 Natural Sciences Bldg. B, Tel: +81-29-853-4325
+1-1-1 Tennodai, Tsukuba, Ibaraki 305-8577 Japan
 
 ### Visit Plasma Research Center 
 [JP](https://www.prc.tsukuba.ac.jp/ja/){:target="_blank"} [EN](https://www.prc.tsukuba.ac.jp/en/){:target="_blank"}

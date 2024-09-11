@@ -9,4 +9,4 @@ description: Please find a full CV file via the top pdf button.
 toc:
   sidebar: left
 ---
-<!-- This is a description of the page. You can modify it in '_pages/cv.md'. You can also change or remove the top pdf download button. -->
+<!-- This is a description of the page. You can modify it in '_pages/cv.md'. You can write down information in '/assets/json/resume.json'. You can also change or remove the top pdf download button. -->

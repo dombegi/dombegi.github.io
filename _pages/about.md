@@ -22,14 +22,14 @@ social: true # includes social icons at the bottom of the page
 A young South Korean researcher living in Japan since 2008; Insterested in topics of plasma physics and controlled fusion: plasma-surface interactions, divertor-relevant physics, atmospheric plasma sources and its applications.
 
 ## Affiliation  
-Assistant Professor
+Assistant Professor  
 Faculty of Pure and Applied Sciences  
 Collaborating with the Plasma Research Center (PRC)  
 University of Tsukuba, Japan
 
 ## Address, Contacts
-Main: Plasma Research Center, Tel: +81-29-853-7474
-Sub: #607 Natural Sciences Bldg. B, Tel: +81-29-853-4325
+Main: Plasma Research Center, Tel: +81-29-853-7474  
+Sub: #607 Natural Sciences Bldg. B, Tel: +81-29-853-4325  
 1-1-1 Tennodai, Tsukuba, Ibaraki 305-8577 Japan
 
 ### Visit Plasma Research Center 

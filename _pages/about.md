@@ -2,17 +2,18 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: <a href='https://trios.tsukuba.ac.jp/en/researcher/0000004339'>Affiliations</a>. Address. Contacts. Etc.
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+  #  <p>555 your office number</p>
+  #  <p>123 your address street</p>
+  #  <p>Your City, State 12345</p>
 
+news: true # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 
@@ -25,10 +26,22 @@ latest_posts:
   enabled: true
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
+
+
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+A young South Korean researcher living in Japan since 2008; Insterested in topics of plasma physics and controlled fusion: plasma-surface interactions, divertor-relevant physics, atmospheric plasma sources and its applications.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+## Affiliation  
+Assistant Professor  
+Faculty of Pure and Applied Sciences  
+Collaborating with the Plasma Research Center (PRC)  
+University of Tsukuba, Japan
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+## Address, Contacts
+Main: Plasma Research Center, Tel: +81-29-853-7474  
+Sub: #607 Natural Sciences Bldg. B, Tel: +81-29-853-4325  
+1-1-1 Tennodai, Tsukuba, Ibaraki 305-8577 Japan
+
+### Visit Plasma Research Center 
+[JP](https://www.prc.tsukuba.ac.jp/ja/){:target="_blank"} [EN](https://www.prc.tsukuba.ac.jp/en/){:target="_blank"}

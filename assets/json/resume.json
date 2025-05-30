@@ -1,42 +1,50 @@
+// Edit this to modify 'CV'
+
 {
   "basics": {
-    "name": "Albert Einstein",
+    "name": "Dogyun Hwangbo",
     "label": "Scientist",
     "image": "",
-    "email": "albert@einstein.de",
-    "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
+    "email": "hwangbo@prc.tsukuba.ac.jp",
+    "phone": "+81(029) 853-7472",
+    "url": "https://dombegi.github.io",
+    "summary": "A Korean-born experimental physicist",
     "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
-      "countryCode": "US",
-      "region": "California"
+      "address": "1-1-1 Tennodai",
+      "postalCode": "305-8577",
+      "city": "Tsukuba",
+      "countryCode": "JP",
+      "region": "Ibaraki"
     },
     "profiles": [
       {
-        "network": "Twitter",
+        /* "network": "Twitter",
         "username": "AlbertEinstein",
-        "url": "https://twitter.com/AlbertEinstein"
+        "url": "https://twitter.com/AlbertEinstein" */
       }
     ]
   },
   "work": [
     {
-      "name": "Institute for Advanced Study, Princeton University",
-      "position": "Professor of Theoretical Physics",
-      "url": "https://example.com",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
-      "highlights": ["Relativity"]
+      "name": "Faculty of Pure and Applied Sciences, University of Tsukuba",
+      "position": "Assistant Professor",
+      "startDate": "2019-12-01",
+      "endDate": "present",
+      "summary": "I associated with the plasma research center.",
+      "highlights": ["Plasma-surface interactions"]
+    },
+    {
+      "name": "Graduate School of Engineering, Nagoya University",
+      "position": "Postdoctoral Research Fellow",
+      "startDate": "2019-10-01",
+      "endDate": "2019-11-30",
+      "summary": "Japan Society for the Promotion of Science (JSPS) PD.",
+      "highlights": ["Plasma-surface interactions"]
     }
   ],
-  "volunteer": [
+  /* "volunteer": [
     {
       "organization": "People's Climate March",
-      "location": "Zurich, Switzerland",
       "position": "Lead Organizer",
       "url": "https://example.com",
       "startDate": "2014-04-01",
@@ -44,74 +52,73 @@
       "summary": "Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.",
       "highlights": ["Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march.", "Men of the year 2014 by Time magazine"]
     }
-  ],
+  ], */
   "education": [
     {
-      "institution": "University of Zurich, Zurich, Switzerland",
-      "location": "Zurich, Switzerland",
-      "url": "https://www.uzh.ch/",
-      "area": "Software Development",
+      "institution": "Nagoya University, Nagoya, Japan",
+      "location": "Nagoya, Japan",
+      "url": "",
+      "area": "Electrical Engineering",
       "studyType": "PhD",
-      "startDate": "1905-01-01",
-      "endDate": "1905-01-01",
+      "startDate": "2017-04-01",
+      "endDate": "2019-9-30",
       "score": "10",
-      "courses": ["Theory of Relativity"]
+      "courses": ["Arcing on fiberform nanostructured metal surfaces formed by helium plasma exposure"]
+    },
+    {
+      "institution": "Nagoya University, Nagoya, Japan",
+      "location": "Nagoya, Japan",
+      "url": "",
+      "area": "Energy Science and Engineering",
+      "studyType": "M.E.",
+      "startDate": "2013-04-01",
+      "endDate": "2017-3-27",
+      "score": "10"
+    },
+    {
+      "institution": "Nagoya University, Nagoya, Japan",
+      "location": "Nagoya, Japan",
+      "url": "",
+      "area": "Engineering",
+      "studyType": "B.E.",
+      "startDate": "2009-04-01",
+      "endDate": "2013-3-27",
+      "score": "10"
     }
   ],
   "awards": [
     {
-      "title": "Nobel Prize in Physics",
-      "date": "1921-11-01",
-      "awarder": "Royal Swedish Academy of Sciences",
-      "url": "https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/",
-      "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
+      "title": "Best Oral Presentation Award",
+      "date": "2022-03",
+      "awarder": "ISPlasma 2022 administration",
+      "url": "",
+      "summary": "Motion analysis of arc spots on tungsten fuzz by means of self-avoiding random walk model"
+    },
+    {
+      "title": "Outstanding Graduate Student Award",
+      "date": "2018-06",
+      "awarder": "Nagoya University",
+      "url": "",
+      "summary": ""
+    },
+    {
+      "title": "The JSPF Award for Early Career Research Contributions",
+      "date": "2016-12",
+      "awarder": "The Japan Society of Plasma Science and Nuclear Fusion Research",
+      "url": "",
+      "summary": ""
     }
   ],
-  "certificates": [
-    {
+/*  "certificates": [
+   {
       "name": "Machine Learning",
       "date": "2018-01-01",
       "issuer": "Stanford University",
       "url": "https://example.com",
       "icon": "fa-solid fa-location-dot"
-    },
-    {
-      "name": "Quantum Computing",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-tag"
-    },
-    {
-      "name": "Quantum Information",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-envelope"
-    },
-    {
-      "name": "Quantum Cryptography",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-hashtag"
-    },
-    {
-      "name": "Quantum Communication",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-calendar"
-    },
-    {
-      "name": "Quantum Teleportation",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-clipboard-check"
-    }
-  ],
-  "publications": [
+    } 
+  ], */
+/*    "publications": [
     {
       "name": "Zur Elektrody/namik bewegter Körper",
       "publisher": "Annalen der Physik",
@@ -133,40 +140,42 @@
       "url": "https://de.wikisource.org/wiki/Die_Grundlage_der_allgemeinen_Relativitätstheorie",
       "summary": "The publication of the theory of general relativity made him internationally famous. He was professor of physics at the universities of Zurich (1909–1911) and Prague (1911–1912), before he returned to ETH Zurich (1912–1914)."
     }
-  ],
+  ],  */
   "skills": [
     {
-      "name": "Physics",
+      "name": "Program",
       "level": "Master",
       "icon": "fa-solid fa-hashtag",
       "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
+        "Python",
+        "Igor",
+        "ImageJ"
       ]
     }
   ],
   "languages": [
     {
-      "language": "German",
+      "language": "Korean",
       "fluency": "Native speaker",
-      "icon": ""
+      "icon": ":kr:"
     },
     {
       "language": "English",
       "fluency": "Fluent",
       "icon": ""
+    },
+    {
+      "language": "Japanese",
+      "fluency": "Fluent",
+      "icon": ""
     }
-  ],
-  "interests": [
+  ]
+/*   "interests": [
     {
       "name": "Physics",
       "icon": "fa-solid fa-tag",
       "keywords": [
-        "Quantum Mechanics",
+        "Plasma ",
         "Quantum Computing",
         "Quantum Information",
         "Quantum Cryptography",
@@ -174,8 +183,8 @@
         "Quantum Teleportation"
       ]
     }
-  ],
-  "references": [
+  ], */
+/*   "references": [
     {
       "name": "Professor John Doe",
       "icon": "fa-solid fa-laptop",
@@ -196,5 +205,5 @@
       "endDate": "2018-01-01",
       "url": "https://example.com"
     }
-  ]
+  ] */
 }

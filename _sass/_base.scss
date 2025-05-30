@@ -18,7 +18,9 @@ span,
 strong {
   color: var(--global-text-color);
 }
-
+body {
+  font-family: "Roboto", "Roboto Slab", "Noto Sans JP"
+}
 hr {
   border-top: 1px solid var(--global-divider-color);
 }
@@ -54,6 +56,10 @@ table.table a {
   &.table-bordered {
     border: 1px solid var(--global-divider-color) !important;
   }
+}
+figure,
+img {
+  max-width: 90vw;
 }
 
 blockquote {

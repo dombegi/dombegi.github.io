@@ -498,6 +498,11 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/2024-12-13-IIS2024/";
+            },},{id: "news-2025年度の新メンバー",
+          title: '2025年度の新メンバー',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/2025-06-04-New-member/";
             },},{id: "projects-project-1",
           title: 'project 1',
           description: "with background image",

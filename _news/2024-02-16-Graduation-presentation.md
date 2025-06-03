@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Graduation presentation
+title: 物理学類卒研発表会・物理学学位プログラム修士発表会
 date: 2024-02-16 
 inline: false
 related_posts: false

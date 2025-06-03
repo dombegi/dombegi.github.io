@@ -4,7 +4,7 @@ permalink: /teaching/
 title: teaching
 description: List and materials for courses I teach.
 nav: true
-nav_order: 6
+nav_order: 4
 # giscus_comments: true
 related_posts: false
 toc:

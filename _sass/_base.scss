@@ -37,6 +37,10 @@ table {
   }
 }
 
+table .name{
+  width: 115px;
+}
+
 a,
 table.table a {
   color: var(--global-theme-color);

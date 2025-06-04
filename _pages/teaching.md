@@ -68,7 +68,7 @@ pretty_table: true
   <thead>
     <tr>
       <th data-field="year">Year</th>
-      <th data-field="name">Name</th>
+      <th class="name" data-field="name">Name</th>
       <th data-field="title">Title</th>
     </tr>
   </thead>

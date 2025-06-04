@@ -9,7 +9,7 @@ related_posts: false
 
 <!-- Comment here. inline comment here -->
 
-Insitute of Physics Publishing (IOP) より、IOP trusted reviewer資格を付与されました。
+Insitute of Physics Publishing (IOP) より、IOP trusted reviewer資格を付与されました。\
 Recently, an email was sent from IOP publishing, informing that I have achieved IOP trusted reviewer status. This is the certificate.
 
 <div class="row mt-3 justify-content-center">

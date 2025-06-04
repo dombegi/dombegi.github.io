@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: profiles
 permalink: /team/
 title: PX-PSI team
 description: 現在のメンバーを紹介します。
@@ -9,52 +9,21 @@ horizontal: true
 toc:
   sidebar: left
 
+profiles:
+  # if you want to include more than one profile, just replicate the following block
+  # and create one content file for each profile inside _pages/
+  - align: right
+    image: 
+    content: /team/px-psi-2025.md
+    image_circular: false # crops the image to make it circular
+    more_info: >
+
+  - align: right
+    image: 2024px-psi.png
+    content: /team/alumni.md
+    image_circular: false # crops the image to make it circular
+    more_info: >
+      <p>あけぼのすぎ通り,筑波大学</p>
+      <p>2024.Nov.22</p>
+
 ---
-
-### Faculty
-Mizuki Sakamoto, Professor (Director of PRC)  
-Dogyun Hwangbo, Assistant Professor
-
-### PhD student
-Kota Saito (D2)
-
-### Master student
-#### M2
-Hana Kida  
-Aoi Kataniwa  
-Takuto Okugi  
-Maria Sakamoto
-
-#### M1
-Yukiya Numata
-
-#### B4
-Nanaka Sakamoto  
-Miku Saito
-
-### Alumni
-#### 2024
-Ryo Sasaki (2022-2024)  
-Haru Yoshida (2021-2024)  
-Kazutaka Onoda (2022-2024)  
-Sou Murakami (2022-2024)  
-Yuta Hirayanagi (2024)
-#### 2023
-#### 2022
-Mikoto Kusumoto (2020-2022)  
-Katsutomo Takatsu (2020-2022)
-#### 2021
-Naoki Orikasa (2019-2021)  
-Takahisa Sakai (2019-2021)  
-Ryusei Nitta (2021)  
-Aoi Fujimori (2021)  
-#### 2020
-Keigo Suzuki (2020)  
-Masao Takeda (2018-2020)  
-Toshiaki Mashiko (2020)  
-#### 2019
-Miku Kayano (2019)  
-Sumi Tada (2019)  
-
-### Employment after graduation
-J-Power Sony AGC 横浜市役所 NTT 高校教師 塾校舎長 スタートアップ企業 東京都庁 住友金属鉱山 NTK 高崎市役所

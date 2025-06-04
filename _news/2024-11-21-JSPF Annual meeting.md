@@ -20,7 +20,7 @@ related_posts: true
 プラズマ・核融合学会第41回年会が東京・船堀で開催されました。PX-PSIグループからは8名の学生が口頭・ポスター発表を行いました。
 また、M2の村上君が若手学会発表賞を受賞しました！
 
-村上創さん(数理物質科学研究群　物理学学位プログラム 博士前期課程2年)  
+村上創さん(数理物質科学研究群　物理学学位プログラム 博士前期課程2年)\
 「RFプラズマ装置におけるタングステンナノ構造バンドルの形成過程の観察」
 
 The 41th Annual meeting of Japan Society of Plasma and Fusion Research was held in Tokyo on 17-20 November 2024. Seven oral/poster presentations were made from our group.

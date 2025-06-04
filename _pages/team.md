@@ -6,6 +6,8 @@ description: 現在のメンバーを紹介します。
 nav: true
 nav_order: 3
 horizontal: true
+toc:
+  sidebar: left
 
 ---
 

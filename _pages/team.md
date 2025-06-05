@@ -26,4 +26,11 @@ profiles:
       <p>あけぼのすぎ通り,筑波大学</p>
       <p>2024.Nov.22</p>
 
+  - align: right
+    image: 
+    content: /team/award.md
+    image_circular: false # crops the image to make it circular
+    more_info: >
+      
+
 ---

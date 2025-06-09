@@ -22,7 +22,7 @@ Sumi Tada (2019)
 ### **Employment after graduation**
 J-Power\
 Sony\
-AGC\
+Asahi Kasei\
 横浜市役所\
 NTT\
 高校教師\

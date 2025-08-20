@@ -524,6 +524,11 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/2025-06-04-New-member/";
+            },},{id: "news-産総研-aist-八木先生のセミナー",
+          title: '産総研(AIST)八木先生のセミナー',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/2025-07-15-Seminar-Yagi-AIST/";
             },},{id: "projects-project-1",
           title: 'project 1',
           description: "with background image",

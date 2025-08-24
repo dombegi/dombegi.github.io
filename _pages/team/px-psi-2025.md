@@ -1,7 +1,3 @@
-### **Faculty**
-Mizuki Sakamoto, Professor (Director of PRC)\
-Dogyun Hwangbo, Assistant Professor
-
 ### **Student**
 #### D2
 Kota Saito

@@ -14,6 +14,12 @@ profiles:
   # and create one content file for each profile inside _pages/
   - align: right
     image: 
+    content: /team/faculty.md
+    image_circular: false # crops the image to make it circular
+    more_info: >
+
+  - align: right
+    image: 
     content: /team/px-psi-2025.md
     image_circular: false # crops the image to make it circular
     more_info: >

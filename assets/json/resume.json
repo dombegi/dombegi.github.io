@@ -3,6 +3,8 @@
 {
   "basics": {
     "name": "Dogyun Hwangbo",
+    "Affiliation": "Institute of Pure and Applied Sciences, University of Tsukuba",
+    "concurrent": "Plasma Research Center (PRC) \\ Tsukuba Institute for Advanced Research (TIAR)",
     "label": "Scientist",
     "image": "",
     "email": "hwangbo@prc.tsukuba.ac.jp",
@@ -10,11 +12,12 @@
     "url": "https://dombegi.github.io",
     "summary": "A Korean-born experimental physicist",
     "location": {
-      "address": "1-1-1 Tennodai",
+      "address": "Plasma Research Center, 1-1-1 Tennodai",
       "postalCode": "305-8577",
       "city": "Tsukuba",
       "countryCode": "JP",
-      "region": "Ibaraki"
+      "region": "Ibaraki",
+      "Additional location": "#607 Natural Sciences Bldg. B, Tel: +81-29-853-4325"
     },
     "profiles": [
       {
@@ -26,11 +29,11 @@
   },
   "work": [
     {
-      "name": "Faculty of Pure and Applied Sciences, University of Tsukuba",
+      "name": "Institute of Pure and Applied Sciences, University of Tsukuba",
       "position": "Assistant Professor",
       "startDate": "2019-12-01",
       "endDate": "present",
-      "summary": "I associated with the plasma research center.",
+      "location": "Tsukuba, Ibaraki, Japan",
       "highlights": ["Plasma-surface interactions"]
     },
     {
@@ -39,6 +42,7 @@
       "startDate": "2019-10-01",
       "endDate": "2019-11-30",
       "summary": "Japan Society for the Promotion of Science (JSPS) PD.",
+      "location": "Nagoya, Japan",
       "highlights": ["Plasma-surface interactions"]
     }
   ],

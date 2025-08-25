@@ -25,12 +25,50 @@ profiles:
     more_info: >
 
   - align: right
-    image: 2024px-psi.png
+    image: 
     content: /team/alumni.md
+    image_circular: false # crops the image to make it circular
+    more_info: >
+
+  - align: right
+    image: 2024px-psi.png
+    content: /team/a2024.md
     image_circular: false # crops the image to make it circular
     more_info: >
       <p>あけぼのすぎ通り,筑波大学</p>
       <p>2024.Nov.22</p>
+
+  - align: right
+    image: 
+    content: /team/a2023.md
+    image_circular: false # crops the image to make it circular
+    more_info: >
+
+  - align: right
+    image: 2022grad.jpg
+    content: /team/a2022.md
+    image_circular: false # crops the image to make it circular
+    more_info: >
+      <p>「森と生きる」の隣,筑波大学</p>
+      <p>2023.Nov.22</p>
+
+  - align: right
+    image: 
+    content: /team/a2021.md
+    image_circular: false # crops the image to make it circular
+    more_info: >
+
+  - align: right
+    image: 
+    content: /team/a2020.md
+    image_circular: false # crops the image to make it circular
+    more_info: >
+
+  - align: right
+    image: 
+    content: /team/a2019.md
+    image_circular: false # crops the image to make it circular
+    more_info: >
 
   - align: right
     image: 

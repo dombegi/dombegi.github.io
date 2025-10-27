@@ -6,11 +6,11 @@ subtitle: A South Korean researcher working in Japan.
 
 profile:
   align: right
-  image: prof_pic.jpg
-  image_circular: true # crops the image to make it circular
+  image: IMG_3293.jpeg
+  image_circular: false # crops the image to make it circular
   more_info: >
-    <p>Nebuta Museum WA RASSE</p>
-    <p>Global Plasma Forum in Aomori, 2023.Oct.18</p>
+    <p>Arnold and Mabel Beckman Center - Irvine, California, US</p>
+    <p>2025 Japanese-American-German Kavli Frontiers of Science, 2025.Oct.6</p>
 
 # news: true # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"

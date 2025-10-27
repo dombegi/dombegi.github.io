@@ -4,6 +4,29 @@
 
 // Typography
 
+@font-face {
+        font-family: "Myfont";
+        src:  url("../fonts/IBMPlexSansJP-Regular.ttf") format("truetype"),
+              url("../fonts/IBMPlexSansJP-Semibold.ttf") format("truetype"),
+              url("../fonts/IBMPlexSansJP-ExtraLight.ttf") format("truetype"),
+              url("../fonts/IBMPlexSansJP-Light.ttf") format("truetype"),
+              url("../fonts/IBMPlexSansJP-Medium.ttf") format("truetype"),
+              url("../fonts/IBMPlexSansJP-Thin.ttf") format("truetype"),
+              url("../fonts/IBMPlexSansJP-Bold.ttf") format("truetype");
+        //font-weight: normal;
+        //font-style: normal;
+        font-display: swap; // Recommended for better performance
+}
+@font-face {
+        font-family: "Myfont2";
+        src:  url("../fonts/ZenMaruGothic-Regular.ttf") format("truetype"),
+              url("../fonts/ZenMaruGothic-Black.ttf") format("truetype"),
+              url("../fonts/ZenMaruGothic-Bold.ttf") format("truetype"),
+              url("../fonts/ZenMaruGothic-Light.ttf") format("truetype"),
+              url("../fonts/ZenMaruGothic-Medium.ttf") format("truetype");
+        font-display: swap; // Recommended for better performance
+}
+
 p,
 h1,
 h2,
@@ -19,7 +42,7 @@ strong {
   color: var(--global-text-color);
 }
 body {
-  font-family:  "Helvetica", "ヒラギノ丸ゴ ProN", "Roboto", "Roboto Slab", "メイリオ", sans-serif; 
+  font-family: "Myfont2", "Myfont", "Helvetica", "メイリオ", "ヒラギノ丸ゴ ProN", sans-serif; /*"メイリオ",*/ 
 }
 hr {
   border-top: 1px solid var(--global-divider-color);

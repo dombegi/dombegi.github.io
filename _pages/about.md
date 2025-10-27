@@ -43,13 +43,5 @@ I am insterested in topics of plasma physics and controlled fusion: plasma-surfa
 
 <br>
 ### Collaborators
-[DIFFER (The Netherlands)](https://www.differ.nl/)\
-[Max-Planck Institute for Plasma Physics (Germany)](https://www.ipp.mpg.de/)\
-[University of Tokyo (Japan)](https://www.ppl.k.u-tokyo.ac.jp/)\
-[Nagoya University (Japan)](https://www.nuee.nagoya-u.ac.jp/labs/plaene/j-index.html)\
-[Center for Energy Research, UC San Diego (USA)](https://cer.ucsd.edu/)\
-[Shimane University (Japan)](https://www.phys.shimane-u.ac.jp/miyamoto_lab/index.html)\
-[CIEMAT (Spain)](https://www.fusion.ciemat.es/home/home/)\
-[NIFS (Japan)](https://www.nifs.ac.jp/)\
-[Prokhorov General Physics Institute (Russia)](https://www.gpi.ru/)
+[DIFFER (The Netherlands)](https://www.differ.nl/) | [Max-Planck Institute for Plasma Physics (Germany)](https://www.ipp.mpg.de/) | [University of Tokyo (Japan)](https://www.ppl.k.u-tokyo.ac.jp/) | [Nagoya University (Japan)](https://www.nuee.nagoya-u.ac.jp/labs/plaene/j-index.html) | [Center for Energy Research, UC San Diego (USA)](https://cer.ucsd.edu/) | [Shimane University (Japan)](https://www.phys.shimane-u.ac.jp/miyamoto_lab/index.html) | [CIEMAT (Spain)](https://www.fusion.ciemat.es/home/home/) | [NIFS (Japan)](https://www.nifs.ac.jp/) | [Prokhorov General Physics Institute (Russia)](https://www.gpi.ru/)
 <br>

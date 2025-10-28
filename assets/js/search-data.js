@@ -568,32 +568,11 @@ ninja.data = [{
           window.open("mailto:%68%77%61%6E%67%62%6F@%70%72%63.%74%73%75%6B%75%62%61.%61%63.%6A%70", "_blank");
         },
       },{
-        id: 'social-orcid',
-        title: 'ORCID',
-        section: 'Socials',
-        handler: () => {
-          window.open("https://orcid.org/0000-0002-8637-2248", "_blank");
-        },
-      },{
-        id: 'social-publons',
-        title: 'Publons',
-        section: 'Socials',
-        handler: () => {
-          window.open("https://publons.com/a/P-7855-2016/", "_blank");
-        },
-      },{
         id: 'social-researchgate',
         title: 'ResearchGate',
         section: 'Socials',
         handler: () => {
           window.open("https://www.researchgate.net/profile/Dogyun-Hwangbo/", "_blank");
-        },
-      },{
-        id: 'social-rss',
-        title: 'RSS Feed',
-        section: 'Socials',
-        handler: () => {
-          window.open("/feed.xml", "_blank");
         },
       },{
         id: 'social-scholar',

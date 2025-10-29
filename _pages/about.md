@@ -36,10 +36,8 @@ I am insterested in topics of plasma physics and controlled fusion: plasma-surfa
 核融合炉における周辺プラズマと炉壁の相互作用に着目し、直線型プラズマ装置を用いた高温プラズマー金属壁の相互作用の研究を行っています。
 また、プラズマー材料相互作用の産業応用を目指して、大気圧プラズマ源の開発及びプラズマ計測を行っています。
 プラズマ照射による材料の表面・内部変化に興味がある方、歓迎します!
-
 <br>
-### Visit Plasma Research Center 
-[JP](https://www.prc.tsukuba.ac.jp/ja/){:target="_blank"} [EN](https://www.prc.tsukuba.ac.jp/en/){:target="_blank"}
+##### Visit Plasma Research Center [JP](https://www.prc.tsukuba.ac.jp/ja/){:target="_blank"} [EN](https://www.prc.tsukuba.ac.jp/en/){:target="_blank"}
 
 <br>
 ### Collaborators

@@ -2,7 +2,7 @@
 layout: page
 permalink: /teaching/
 title: teaching
-description: List and materials for courses I teach.
+description: 学部・大学院で担当中のコースワーク
 nav: true
 nav_order: 4
 # giscus_comments: true

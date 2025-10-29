@@ -16,7 +16,6 @@ jobs:
         uses: actions/checkout@v4
       # See CUSTOMIZE.md for details on how to set up PAT for triggering subsequent workflows
         with:
-          repository: dombegi/dombegi.github.io
           token: ${{ secrets.PAT }}
 
       - name: Set up Python

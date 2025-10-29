@@ -368,3 +368,8 @@ GitHub restricts the default `GITHUB_TOKEN` from triggering other workflows when
 
 3. **Workflow usage**
    The workflow `.github/workflows/update-citations.yml` uses this PAT to commit updates to `_data/citations.yml`.
+
+(4.) I have encountered an error to push
+> ! [remote rejected] main -> main (refusing to allow an OAuth App to create or update workflow `.github/workflows/update-citations.yml` without `workflow` scope)
+> error: failed to push some refs to 'https://github.com/dombegi/dombegi.github.io.git'
+to solve this, I used [this](https://github.com/orgs/community/discussions/26254#discussioncomment-12411091)

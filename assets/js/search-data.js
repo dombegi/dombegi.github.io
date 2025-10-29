@@ -505,6 +505,11 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/2024-12-13-IIS2024/";
+            },},{id: "news-齋藤君-d1-がiter-international-school参加しました",
+          title: '齋藤君(D1)がITER International School参加しました。',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/format/";
             },},{id: "news-2025年度の新メンバー",
           title: '2025年度の新メンバー',
           description: "",
@@ -515,7 +520,44 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/2025-07-15-Seminar-Yagi-AIST/";
-            },},{id: "projects-project-1",
+            },},{id: "news-nifs境界プラズマ研究会",
+          title: 'NIFS境界プラズマ研究会',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/2025-09-10-Kyokai/";
+            },},{id: "news-os2025",
+          title: 'OS2025',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/2025-09-22-OS2025/";
+            },},{id: "news-icfrm-22",
+          title: 'ICFRM-22',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/2025-09-28-ICFRM/";
+            },},{id: "news-筑波会議2025で発表",
+          title: '筑波会議2025で発表',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/2025-10-01-Tsukubakaigi/";
+            },},{id: "news-jagfos-2025",
+          title: 'JAGFOS 2025',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/2025-10-05-JAGFOS/";
+            },},{id: "news-upcoming-ipp-greifswald-w7-x-inspection",
+          title: '(Upcoming) IPP Greifswald, W7-X inspection',
+          description: "",
+          section: "News",},{id: "news-upcoming-プラズマ-核融合学会第42回年会",
+          title: '(Upcoming) プラズマ・核融合学会第42回年会',
+          description: "",
+          section: "News",},{id: "news-upcoming-10th-international-conference-on-materials-and-systems-for-sustainability",
+          title: '(Upcoming) 10th International Conference on Materials and Systems for Sustainability',
+          description: "",
+          section: "News",},{id: "news-upcoming-experiment-on-magnum-psi-at-differ-the-netherlands",
+          title: '(Upcoming) Experiment on Magnum-PSI at DIFFER, the Netherlands',
+          description: "",
+          section: "News",},{id: "projects-project-1",
           title: 'project 1',
           description: "with background image",
           section: "Projects",handler: () => {

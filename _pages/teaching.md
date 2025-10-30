@@ -12,7 +12,7 @@ toc:
 pretty_table: true
 ---
 
-### **Courses**
+### **Undergraduate Courses**
 
 #### 物理学実験I(Physics Experiment I)
 
@@ -42,11 +42,15 @@ pretty_table: true
 2022年度よりプラズマグループの講座を担当しています。\
 「大気圧プラズマを利用したプラスチックの表面親水制御」、「分光計測によるプラズマ種の同定」などをテーマとしています。
 
+### **Graduate Courses**
+
+TBD
+
 ### **Supervision**
 
-#### PhD theses
+##### PhD theses
 
-<table id="table" data-toggle="table" data-url="{{ '/assets/json/doctor.json' | relative_url }}">
+<table id="table" class="theses-table" data-toggle="table" data-url="{{ '/assets/json/doctor.json' | relative_url }}">
   <thead>
     <tr>
       <th data-field="year">Year</th>
@@ -57,9 +61,9 @@ pretty_table: true
 </table>
 <br>
 
-#### Master theses
+##### Master theses
 
-<table id="table" data-toggle="table" data-url="{{ '/assets/json/master.json' | relative_url }}">
+<table id="table" class="theses-table" data-toggle="table" data-url="{{ '/assets/json/master.json' | relative_url }}">
   <thead>
     <tr>
       <th data-field="year">Year</th>
@@ -70,9 +74,9 @@ pretty_table: true
 </table>
 <br>
 
-#### Bachelor theses
+##### Bachelor theses
 
-<table id="table" data-toggle="table" data-url="{{ '/assets/json/bachelor.json' | relative_url }}">
+<table id="table" class="theses-table" data-toggle="table" data-url="{{ '/assets/json/bachelor.json' | relative_url }}">
   <thead>
     <tr>
       <th data-field="year">Year</th>

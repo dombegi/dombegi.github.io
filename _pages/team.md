@@ -19,10 +19,12 @@ profiles:
     more_info: >
 
   - align: right
-    image: 
+    image: 2024px-psi.png
     content: /team/px-psi-2025.md
     image_circular: false # crops the image to make it circular
     more_info: >
+      <p>あけぼのすぎ通り,筑波大学</p>
+      <p>2024.Nov.22</p>
 
   - align: right
     image: 
@@ -31,12 +33,12 @@ profiles:
     more_info: >
 
   - align: right
-    image: 2024px-psi.png
+    image: 2025Mar_Grad.jpg
     content: /team/a2024.md
     image_circular: false # crops the image to make it circular
     more_info: >
-      <p>あけぼのすぎ通り,筑波大学</p>
-      <p>2024.Nov.22</p>
+      <p>大学会館の広場,筑波大学</p>
+      <p>2025.Mar.25</p>
 
   - align: right
     image: 
@@ -50,7 +52,7 @@ profiles:
     image_circular: false # crops the image to make it circular
     more_info: >
       <p>「森と生きる」の隣,筑波大学</p>
-      <p>2023.Nov.22</p>
+      <p>2023.Mar.25</p>
 
   - align: right
     image: 

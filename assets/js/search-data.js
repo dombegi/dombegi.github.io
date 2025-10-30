@@ -4,7 +4,7 @@ const ninja = document.querySelector('ninja-keys');
 // add the home and posts menu items
 ninja.data = [{
     id: "nav-about",
-    title: "about",
+    title: "About",
     section: "Navigation",
     handler: () => {
       window.location.href = "/";
@@ -16,22 +16,29 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/team/";
           },
+        },{id: "nav-research",
+          title: "Research",
+          description: "PX-PSIグループの研究を紹介します。(準備中)",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/research/";
+          },
         },{id: "nav-teaching",
-          title: "teaching",
+          title: "Teaching",
           description: "学部・大学院で担当中のコースワーク",
           section: "Navigation",
           handler: () => {
             window.location.href = "/teaching/";
           },
         },{id: "nav-publications",
-          title: "publications",
+          title: "Publications",
           description: "研究論文のまとめ",
           section: "Navigation",
           handler: () => {
             window.location.href = "/publications/";
           },
         },{id: "nav-conferences",
-          title: "conferences",
+          title: "Conferences",
           description: "学生・教員による会議発表成果のまとめ",
           section: "Navigation",
           handler: () => {

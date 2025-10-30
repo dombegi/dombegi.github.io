@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /conferences/
-title: conferences
+title: Conferences
 description: 学生・教員による会議発表成果のまとめ
 nav: true
 nav_order: 6

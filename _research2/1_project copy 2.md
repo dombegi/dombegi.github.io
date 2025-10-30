@@ -1,10 +1,10 @@
 ---
 layout: page
-title: project 1
+title: project 13
 description: with background image
 img: assets/img/12.jpg
-importance: 1
-category: work
+importance: 3
+category: Devices
 related_publications: true
 ---
 

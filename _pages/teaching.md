@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /teaching/
-title: teaching
+title: Teaching
 description: 学部・大学院で担当中のコースワーク
 nav: true
 nav_order: 4

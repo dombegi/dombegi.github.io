@@ -4,7 +4,7 @@ permalink: /team/
 title: PX-PSI team
 description: 現在のメンバーを紹介します。
 nav: true
-nav_order: 3
+nav_order: 2
 horizontal: true
 toc:
   sidebar: left

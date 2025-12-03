@@ -557,8 +557,8 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/2025-10-05-JAGFOS/";
-            },},{id: "news-upcoming-ipp-greifswald-w7-x-inspection",
-          title: '(Upcoming) IPP Greifswald, W7-X inspection',
+            },},{id: "news-ipp-greifswald-w7-x-inspection",
+          title: 'IPP Greifswald, W7-X inspection',
           description: "",
           section: "News",},{id: "news-upcoming-プラズマ-核融合学会第42回年会",
           title: '(Upcoming) プラズマ・核融合学会第42回年会',

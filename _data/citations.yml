@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2025-11-21'
+  last_updated: '2026-02-02'
 papers:
   7m9WB2wAAAAJ:2osOgNQ5qMEC:
     citations: 8
@@ -14,15 +14,15 @@ papers:
     title: 'Plasma-wall interaction studies in W7-X: main results from the recent divertor operations'
     year: '2021'
   7m9WB2wAAAAJ:4TOpqqG69KYC:
-    citations: 6
+    citations: 7
     title: Nano-tendril bundles behavior under plasma-relevant electric fields
     year: '2021'
   7m9WB2wAAAAJ:5nxA0vEk-isC:
-    citations: 12
+    citations: 13
     title: Ignition and behavior of arc spots on helium irradiated tungsten under fusion relevant condition
     year: '2019'
   7m9WB2wAAAAJ:7PzlFSSx8tAC:
-    citations: 15
+    citations: 16
     title: Changes in morphology and field emission property of nano-tendril bundles after high temperature annealing
     year: '2022'
   7m9WB2wAAAAJ:8k81kl-MbHgC:
@@ -34,15 +34,19 @@ papers:
     title: The effects of impurity gas seeding on the growth of fuzzy tungsten
     year: '2021'
   7m9WB2wAAAAJ:9yKSN-GCB0IC:
-    citations: 63
+    citations: 64
     title: Fuzzy nanostructure growth on Ta/Fe by He plasma irradiation
     year: '2016'
+  7m9WB2wAAAAJ:BqipwSGYUEgC:
+    citations: 0
+    title: Plasma pulse induced dust release from tungsten co-deposited layer
+    year: '2026'
   7m9WB2wAAAAJ:HDshCWvjkbEC:
     citations: 0
     title: Field emission current from protrusion structures formed by helium plasma with various impurity gases
     year: '2023'
   7m9WB2wAAAAJ:IWHjjKOFINEC:
-    citations: 2
+    citations: 3
     title: Effect of Deuterium Fluence on Deuterium Retention in Tungsten with Fibrous Nanostructured Layer in a Compact Plasma Device APSEDAS
     year: '2022'
   7m9WB2wAAAAJ:IjCSPb-OGe4C:
@@ -50,7 +54,7 @@ papers:
     title: Vacuum breakdown from nanostructured fuzzy surfaces
     year: '2016'
   7m9WB2wAAAAJ:JV2RwH3_ST0C:
-    citations: 0
+    citations: 2
     title: Formation of hot spots and arc ignition on tungsten with nano-tendril bundles under high-density hydrogen plasma exposure
     year: '2025'
   7m9WB2wAAAAJ:KlAtU1dfN6UC:
@@ -58,7 +62,7 @@ papers:
     title: Inspection of Arc Trails formed in stellarator/heliotron devices W7-X and LHD
     year: '2020'
   7m9WB2wAAAAJ:L8Ckcad2t8MC:
-    citations: 1
+    citations: 2
     title: Motion analysis of arc spots on tungsten fuzz by means of self-avoiding random walk model
     year: '2022'
   7m9WB2wAAAAJ:LkGwnXOMwfcC:
@@ -66,11 +70,11 @@ papers:
     title: 'A: BREAKDOWN AND FLASHOVER'
     year: Unknown Year
   7m9WB2wAAAAJ:M3NEmzRMIkIC:
-    citations: 0
+    citations: 1
     title: Trapping and release of deuterium in helium-induced tungsten fuzz at low temperature
     year: '2025'
   7m9WB2wAAAAJ:M3ejUd6NZC8C:
-    citations: 10
+    citations: 11
     title: Unipolar arc plasmas on nanostructured tungsten surfaces under perpendicular magnetic field
     year: '2020'
   7m9WB2wAAAAJ:MXK_kJrjxJIC:
@@ -86,7 +90,7 @@ papers:
     title: Overheating of Nanostructured Tendril Bundles due to Thermo-Field Emission
     year: '2021'
   7m9WB2wAAAAJ:R3hNpaxXUhUC:
-    citations: 3
+    citations: 5
     title: Arc erosion characteristics of W-fuzz samples with different thicknesses of the nanostructured layer
     year: '2023'
   7m9WB2wAAAAJ:RHpTSmoSYBkC:
@@ -102,11 +106,11 @@ papers:
     title: Utilization of D2 molecular band emission for electron density measurement
     year: '2024'
   7m9WB2wAAAAJ:TQgYirikUcIC:
-    citations: 15
+    citations: 16
     title: Ignition and Sustainment of Arcing on Nanostructured Tungsten under Plasma Exposure
     year: '2018'
   7m9WB2wAAAAJ:Tyk-4Ss8FVUC:
-    citations: 44
+    citations: 46
     title: Field emission from metal surfaces irradiated with helium plasmas
     year: '2017'
   7m9WB2wAAAAJ:ULOm3_A8WrAC:
@@ -118,7 +122,7 @@ papers:
     title: Effect of nanostructured layer thickness on tungsten surface on cathode spots dynamics
     year: '2016'
   7m9WB2wAAAAJ:UebtZRa9Y70C:
-    citations: 22
+    citations: 23
     title: Influence of heavier impurity deposition on surface morphology development and sputtering behavior explored in multiple linear plasma devices
     year: '2019'
   7m9WB2wAAAAJ:W7OEmFMy1HYC:
@@ -142,7 +146,7 @@ papers:
     title: Helium irradiation effects on the surface modification and recrystallization of tungsten
     year: '2020'
   7m9WB2wAAAAJ:YsMSGLbcyi4C:
-    citations: 34
+    citations: 35
     title: "Ignition and erosion of materials by arcing in fusion\u2010relevant conditions"
     year: '2018'
   7m9WB2wAAAAJ:ZeXyd9-uunAC:
@@ -178,7 +182,7 @@ papers:
     title: Growth of nano-tendril bundles on tungsten with impurity-rich He plasmas
     year: '2018'
   7m9WB2wAAAAJ:hC7cP41nSMkC:
-    citations: 6
+    citations: 7
     title: Field emission properties of nano-tendril bundles formed via helium plasma exposure with various additional impurity gases
     year: '2023'
   7m9WB2wAAAAJ:hFOr9nPyWt4C:
@@ -186,7 +190,7 @@ papers:
     title: Arc ignition and hot spot formation on tungsten with nano-tendril bundles under hydrogen plasma exposure
     year: '2023'
   7m9WB2wAAAAJ:hqOjcs7Dif8C:
-    citations: 28
+    citations: 29
     title: Growth process of nano-tendril bundles with sputtered tungsten
     year: '2019'
   7m9WB2wAAAAJ:iH-uZ7U-co4C:
@@ -226,11 +230,11 @@ papers:
     title: Field electron emission from metal surfaces irradiated with helium plasmas
     year: '2016'
   7m9WB2wAAAAJ:qxL8FJ1GzNcC:
-    citations: 1
+    citations: 2
     title: Size distribution of nano-tendril bundles with various additional impurity gases
     year: '2020'
   7m9WB2wAAAAJ:r0BpntZqJG4C:
-    citations: 29
+    citations: 33
     title: Overview of the first Wendelstein 7-X long pulse campaign with fully water-cooled plasma facing components
     year: '2024'
   7m9WB2wAAAAJ:u-x6o8ySG0sC:

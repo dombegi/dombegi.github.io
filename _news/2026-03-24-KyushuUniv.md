@@ -1,7 +1,7 @@
 ---
 layout: post
-title: DIFFER
-date: 2026-02-21
+title: Kyushu Univ.
+date: 2026-03-24
 inline: true
 related_posts: false
 ---
@@ -16,4 +16,6 @@ related_posts: false
 <!-- 코드 여러줄: 스페이스 4칸 들여쓰기 -->
 <!-- 인용: >, >> -->
 
-Experiment on Magnum-PSI at DIFFER, the Netherlands
+Koga Lab.@Kyushu Univ. visiting
+
+Workshop for atmospheric plasma source

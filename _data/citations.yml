@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-02-02'
+  last_updated: '2026-03-23'
 papers:
   7m9WB2wAAAAJ:2osOgNQ5qMEC:
     citations: 8
@@ -22,7 +22,7 @@ papers:
     title: Ignition and behavior of arc spots on helium irradiated tungsten under fusion relevant condition
     year: '2019'
   7m9WB2wAAAAJ:7PzlFSSx8tAC:
-    citations: 16
+    citations: 17
     title: Changes in morphology and field emission property of nano-tendril bundles after high temperature annealing
     year: '2022'
   7m9WB2wAAAAJ:8k81kl-MbHgC:
@@ -46,11 +46,11 @@ papers:
     title: Field emission current from protrusion structures formed by helium plasma with various impurity gases
     year: '2023'
   7m9WB2wAAAAJ:IWHjjKOFINEC:
-    citations: 3
-    title: Effect of Deuterium Fluence on Deuterium Retention in Tungsten with Fibrous Nanostructured Layer in a Compact Plasma Device APSEDAS
+    citations: 4
+    title: Effect of deuterium fluence on deuterium retention in tungsten with fibrous nanostructured layer in a compact plasma device APSEDAS
     year: '2022'
   7m9WB2wAAAAJ:IjCSPb-OGe4C:
-    citations: 1
+    citations: 2
     title: Vacuum breakdown from nanostructured fuzzy surfaces
     year: '2016'
   7m9WB2wAAAAJ:JV2RwH3_ST0C:
@@ -64,7 +64,7 @@ papers:
   7m9WB2wAAAAJ:L8Ckcad2t8MC:
     citations: 2
     title: Motion analysis of arc spots on tungsten fuzz by means of self-avoiding random walk model
-    year: '2022'
+    year: '2023'
   7m9WB2wAAAAJ:LkGwnXOMwfcC:
     citations: 0
     title: 'A: BREAKDOWN AND FLASHOVER'
@@ -82,7 +82,7 @@ papers:
     title: Effect of He Plasma Irradiation on Recrystallization Properties of Tungsten
     year: '2019'
   7m9WB2wAAAAJ:NMxIlDl6LWMC:
-    citations: 0
+    citations: 1
     title: Dynamic response of atomic processes in detached helium plasma induced by high-density transient pulse in Magnum-PSI
     year: '2025'
   7m9WB2wAAAAJ:QIV2ME_5wuYC:
@@ -90,7 +90,7 @@ papers:
     title: Overheating of Nanostructured Tendril Bundles due to Thermo-Field Emission
     year: '2021'
   7m9WB2wAAAAJ:R3hNpaxXUhUC:
-    citations: 5
+    citations: 6
     title: Arc erosion characteristics of W-fuzz samples with different thicknesses of the nanostructured layer
     year: '2023'
   7m9WB2wAAAAJ:RHpTSmoSYBkC:
@@ -102,7 +102,7 @@ papers:
     title: Emission from tungsten nanostructured tendril bundles under local thermal load
     year: '2018'
   7m9WB2wAAAAJ:TFP_iSt0sucC:
-    citations: 0
+    citations: 1
     title: Utilization of D2 molecular band emission for electron density measurement
     year: '2024'
   7m9WB2wAAAAJ:TQgYirikUcIC:
@@ -114,7 +114,7 @@ papers:
     title: Field emission from metal surfaces irradiated with helium plasmas
     year: '2017'
   7m9WB2wAAAAJ:ULOm3_A8WrAC:
-    citations: 20
+    citations: 21
     title: Dynamics of the changes in the parameters of the arc plasma during the destruction of a helium-induced tungsten fuzz by arc pulses
     year: '2020'
   7m9WB2wAAAAJ:UeHWp8X0CEIC:
@@ -134,7 +134,7 @@ papers:
     title: Proton scattering from tungsten fuzz
     year: '2018'
   7m9WB2wAAAAJ:Wp0gIr-vW9MC:
-    citations: 9
+    citations: 8
     title: Influence of Nitrogen Ratio on Plasma Detachment during Combined Seeding with Hydrogen on Divertor Simulation Experiment of GAMMA 10/PDX
     year: '2021'
   7m9WB2wAAAAJ:YFjsv_pBGBYC:
@@ -142,7 +142,7 @@ papers:
     title: CONFERENCE PRE-PRINT RECENT PROGRESS IN THE PILOT GAMMA PDX-SC SUPERCONDUCTING MIRROR
     year: Unknown Year
   7m9WB2wAAAAJ:YOwf2qJgpHMC:
-    citations: 8
+    citations: 9
     title: Helium irradiation effects on the surface modification and recrystallization of tungsten
     year: '2020'
   7m9WB2wAAAAJ:YsMSGLbcyi4C:
@@ -178,7 +178,7 @@ papers:
     title: Status and prospects of arcing in the magnetic confinement fusion studies
     year: '2021'
   7m9WB2wAAAAJ:eQOLeE2rZwMC:
-    citations: 53
+    citations: 54
     title: Growth of nano-tendril bundles on tungsten with impurity-rich He plasmas
     year: '2018'
   7m9WB2wAAAAJ:hC7cP41nSMkC:
@@ -190,7 +190,7 @@ papers:
     title: Arc ignition and hot spot formation on tungsten with nano-tendril bundles under hydrogen plasma exposure
     year: '2023'
   7m9WB2wAAAAJ:hqOjcs7Dif8C:
-    citations: 29
+    citations: 30
     title: Growth process of nano-tendril bundles with sputtered tungsten
     year: '2019'
   7m9WB2wAAAAJ:iH-uZ7U-co4C:
@@ -209,10 +209,6 @@ papers:
     citations: 35
     title: Enhanced fuzzy tungsten growth in the presence of tungsten deposition
     year: '2020'
-  7m9WB2wAAAAJ:k_IJM867U9cC:
-    citations: 0
-    title: Emission from Tungsten Nanostructured Tendril Bundles under Local Thermal Load
-    year: '2018'
   7m9WB2wAAAAJ:mB3voiENLucC:
     citations: 0
     title: PART II OF THREE PARTS
@@ -226,23 +222,23 @@ papers:
     title: Nano-tendril bundles behavior under plasma-relevant electric fields
     year: '2021'
   7m9WB2wAAAAJ:qjMakFHDy7sC:
-    citations: 1
+    citations: 2
     title: Field electron emission from metal surfaces irradiated with helium plasmas
     year: '2016'
   7m9WB2wAAAAJ:qxL8FJ1GzNcC:
-    citations: 2
+    citations: 5
     title: Size distribution of nano-tendril bundles with various additional impurity gases
     year: '2020'
   7m9WB2wAAAAJ:r0BpntZqJG4C:
-    citations: 33
+    citations: 39
     title: Overview of the first Wendelstein 7-X long pulse campaign with fully water-cooled plasma facing components
     year: '2024'
   7m9WB2wAAAAJ:u-x6o8ySG0sC:
-    citations: 43
+    citations: 42
     title: Transition in velocity and grouping of arc spot on different nanostructured tungsten electrodes
     year: '2014'
   7m9WB2wAAAAJ:u5HHmVD_uO8C:
-    citations: 31
+    citations: 30
     title: 'Arc spot grouping: An entanglement of arc spot cells'
     year: '2014'
   7m9WB2wAAAAJ:ufrVoPGSRksC:
@@ -250,6 +246,6 @@ papers:
     title: Effect of the nanostructured layer thickness on the dynamics of cathode spots on tungsten
     year: '2018'
   7m9WB2wAAAAJ:zYLM7Y9cAGgC:
-    citations: 40
+    citations: 41
     title: Erosion of nanostructured tungsten by laser ablation, sputtering and arcing
     year: '2017'

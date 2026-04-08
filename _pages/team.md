@@ -20,7 +20,7 @@ profiles:
 
   - align: right
     image: 2024px-psi.png
-    content: /team/px-psi-2025.md
+    content: /team/a2026.md
     image_circular: false # crops the image to make it circular
     more_info: >
       <p>あけぼのすぎ通り,筑波大学</p>
@@ -31,6 +31,15 @@ profiles:
     content: /team/alumni.md
     image_circular: false # crops the image to make it circular
     more_info: >
+
+- align: right
+    image: 2025_group.jpg
+    content: /team/a2025.md
+    image_circular: false # crops the image to make it circular
+    more_info: >
+      <p>マイクロ波調整室、プラ研</p>
+      <p>2026.Feb.20</p>
+
 
   - align: right
     image: 2025Mar_Grad.jpg

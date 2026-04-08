@@ -9,14 +9,7 @@ ninja.data = [{
     handler: () => {
       window.location.href = "/";
     },
-  },{id: "nav-px-psi-team",
-          title: "PX-PSI team",
-          description: "現在のメンバーを紹介します。",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/team/";
-          },
-        },{id: "nav-research",
+  },{id: "nav-research",
           title: "Research",
           description: "PX-PSIグループの研究を紹介します。(準備中)",
           section: "Navigation",
@@ -566,11 +559,23 @@ ninja.data = [{
           section: "News",},{id: "news-10th-international-conference-on-materials-and-systems-for-sustainability",
           title: '10th International Conference on Materials and Systems for Sustainability',
           description: "",
-          section: "News",},{id: "news-experiment-on-magnum-psi-at-differ-the-netherlands",
-          title: 'Experiment on Magnum-PSI at DIFFER, the Netherlands',
+          section: "News",},{id: "news-differ",
+          title: 'DIFFER',
           description: "",
-          section: "News",},{id: "news-koga-lab-kyushu-univ-visiting-workshop-for-atmospheric-plasma-source",
-          title: 'Koga Lab.@Kyushu Univ. visiting  Workshop for atmospheric plasma source',
+          section: "News",handler: () => {
+              window.location.href = "/news/2026-02-21-DIFFER/";
+            },},{id: "news-guest",
+          title: 'Guest',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/2026-03-12-Guest/";
+            },},{id: "news-guest",
+          title: 'Guest',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/2026-03-13-Guest/";
+            },},{id: "news-2026-3-24-27の日程で-九州大学の古閑研究室に訪問しました-古閑研開発の大気圧dbdプラズマ装置のワークショップに参加しました-奥村先生のご指導でプラズマ源の組立や動作試験を行い-筑波大学に同機の運用環境を整えていきます-i-visited-the-koga-laboratory-at-kyushu-university-i-participated-in-a-workshop-on-the-atmospheric-pressure-dbd-plasma-device-developed-by-the-koga-lab-under-professor-okumura-s-guidance-i-assembled-the-plasma-source-and-conducted-operational-tests-and-we-are-now-preparing-the-operational-environment-for-this-device-at-the-university-of-tsukuba",
+          title: '2026/3/24-27の日程で、九州大学の古閑研究室に訪問しました。古閑研開発の大気圧DBDプラズマ装置のワークショップに参加しました。 奥村先生のご指導でプラズマ源の組立や動作試験を行い、筑波大学に同機の運用環境を整えていきます。 I visited the Koga Laboratory at Kyushu University. I participated in...',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',

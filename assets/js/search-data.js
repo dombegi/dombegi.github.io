@@ -564,20 +564,22 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/2026-02-21-DIFFER/";
-            },},{id: "news-guest",
-          title: 'Guest',
+            },},{id: "news-nifs中村先生-wang先生の来訪-prof-nakamura-and-dr-wang-at-nifs-visited-us",
+          title: 'NIFS中村先生、Wang先生の来訪 / Prof. Nakamura and Dr. Wang at NIFS visited us',
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/2026-03-12-Guest/";
-            },},{id: "news-guest",
-          title: 'Guest',
+            },},{id: "news-東北大金子先生-佐々木先生来訪-prof-kaneko-and-prof-sasaki-at-tohoku-univ-visited-us",
+          title: '東北大金子先生、佐々木先生来訪 / Prof. Kaneko and Prof. Sasaki at Tohoku Univ. visited us',
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/2026-03-13-Guest/";
-            },},{id: "news-2026-3-24-27の日程で-九州大学の古閑研究室に訪問しました-古閑研開発の大気圧dbdプラズマ装置のワークショップに参加しました-奥村先生のご指導でプラズマ源の組立や動作試験を行い-筑波大学に同機の運用環境を整えていきます-i-visited-the-koga-laboratory-at-kyushu-university-i-participated-in-a-workshop-on-the-atmospheric-pressure-dbd-plasma-device-developed-by-the-koga-lab-under-professor-okumura-s-guidance-i-assembled-the-plasma-source-and-conducted-operational-tests-and-we-are-now-preparing-the-operational-environment-for-this-device-at-the-university-of-tsukuba",
-          title: '2026/3/24-27の日程で、九州大学の古閑研究室に訪問しました。古閑研開発の大気圧DBDプラズマ装置のワークショップに参加しました。 奥村先生のご指導でプラズマ源の組立や動作試験を行い、筑波大学に同機の運用環境を整えていきます。 I visited the Koga Laboratory at Kyushu University. I participated in...',
+            },},{id: "news-古閑研究室-九州大学-koga-lab-kyushu-univ",
+          title: '古閑研究室@九州大学 / Koga Lab. @Kyushu Univ.',
           description: "",
-          section: "News",},{id: "projects-project-1",
+          section: "News",handler: () => {
+              window.location.href = "/news/2026-03-24-KyushuUniv/";
+            },},{id: "projects-project-1",
           title: 'project 1',
           description: "with background image",
           section: "Projects",handler: () => {

@@ -9,7 +9,14 @@ ninja.data = [{
     handler: () => {
       window.location.href = "/";
     },
-  },{id: "nav-research",
+  },{id: "nav-px-psi-team",
+          title: "PX-PSI team",
+          description: "現在のメンバーを紹介します。",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/team/";
+          },
+        },{id: "nav-research",
           title: "Research",
           description: "PX-PSIグループの研究を紹介します。(準備中)",
           section: "Navigation",

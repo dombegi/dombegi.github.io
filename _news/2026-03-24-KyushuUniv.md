@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Kyushu Univ.
+title: 古閑研究室@九州大学 / Koga Lab. @Kyushu Univ.
 date: 2026-03-24
-inline: true
+inline: false
 related_posts: false
 ---
 

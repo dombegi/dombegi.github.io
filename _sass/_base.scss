@@ -27,6 +27,7 @@
         font-display: swap; // Recommended for better performance
 }
 
+
 p,
 h1,
 h2,
@@ -1634,5 +1635,26 @@ figure.cover {
   /* mouse over link */
   a.cover-link:hover {
     color: #23212d !important;
+  }
+}
+
+/* Added by Dogyun */
+// Cite & DOI toggle blocks
+.cite-text, .doi-text {
+  pre {
+    white-space: pre-wrap;
+    word-break: break-word;
+    font-family: inherit;
+    font-size: 0.875rem;
+    line-height: 1.6;
+    padding: 12px;
+    margin-bottom: 8px;
+    background-color: var(--global-bg-color);
+    border: 1px solid var(--global-divider-color);
+    border-radius: 4px;
+  }
+  .btn-clipboard {
+    font-size: 0.75rem;
+    padding: 2px 8px;
   }
 }

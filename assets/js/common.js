@@ -4,17 +4,39 @@ $(document).ready(function () {
     $(this).parent().parent().find(".abstract.hidden").toggleClass("open");
     $(this).parent().parent().find(".award.hidden.open").toggleClass("open");
     $(this).parent().parent().find(".bibtex.hidden.open").toggleClass("open");
+    $(this).parent().parent().find(".cite-text.hidden.open").toggleClass("open");   // 추가
+    $(this).parent().parent().find(".doi-text.hidden.open").toggleClass("open");    // 추가
   });
   $("a.award").click(function () {
     $(this).parent().parent().find(".abstract.hidden.open").toggleClass("open");
     $(this).parent().parent().find(".award.hidden").toggleClass("open");
     $(this).parent().parent().find(".bibtex.hidden.open").toggleClass("open");
+    $(this).parent().parent().find(".cite-text.hidden.open").toggleClass("open");   // 추가
+    $(this).parent().parent().find(".doi-text.hidden.open").toggleClass("open");    // 추가
   });
   $("a.bibtex").click(function () {
     $(this).parent().parent().find(".abstract.hidden.open").toggleClass("open");
     $(this).parent().parent().find(".award.hidden.open").toggleClass("open");
     $(this).parent().parent().find(".bibtex.hidden").toggleClass("open");
+    $(this).parent().parent().find(".cite-text.hidden.open").toggleClass("open");   // 추가
+    $(this).parent().parent().find(".doi-text.hidden.open").toggleClass("open");    // 추가
   });
+  // ▼ 추가: cite-text, doi-text 토글 ▼
+  $("a.cite-text").click(function () {
+    $(this).parent().parent().find(".abstract.hidden.open").toggleClass("open");
+    $(this).parent().parent().find(".award.hidden.open").toggleClass("open");
+    $(this).parent().parent().find(".bibtex.hidden.open").toggleClass("open");
+    $(this).parent().parent().find(".doi-text.hidden.open").toggleClass("open");
+    $(this).parent().parent().find(".cite-text.hidden").toggleClass("open");
+  });
+  $("a.doi-text").click(function () {
+    $(this).parent().parent().find(".abstract.hidden.open").toggleClass("open");
+    $(this).parent().parent().find(".award.hidden.open").toggleClass("open");
+    $(this).parent().parent().find(".bibtex.hidden.open").toggleClass("open");
+    $(this).parent().parent().find(".cite-text.hidden.open").toggleClass("open");
+    $(this).parent().parent().find(".doi-text.hidden").toggleClass("open");
+  });
+  // ▲ 추가 끝 ▲
   $("a").removeClass("waves-effect waves-light");
 
   // bootstrap-toc

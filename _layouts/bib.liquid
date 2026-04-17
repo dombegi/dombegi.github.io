@@ -177,7 +177,8 @@
       {% include hook/bib.liquid %}
     {% endif %}
     {% assign entrytype_text = entrytype | strip_html | strip %}
-    {% capture periodical %}{{ entrytype }}{% if entrytype_text != "" and entryyear != "" %}, {% endif %}{{ entrymonth }}{{ entryyear }}{% endcapture %}
+    <!--{% capture periodical %}{{ entrytype }}{% if entrytype_text != "" and entryyear != "" %}, {% endif %}{{ entrymonth }}{{ entryyear }}{% endcapture %}-->
+    {% capture periodical %}{{ entrytype }}{% if entry.volume %} <b>{{ entry.volume }}</b>{% endif %}{% if entry.year %} ({{ entry.year }}){% endif %}{% if entry.pages %} {{ entry.pages }}{% endif %}{% endcapture %}
     <div class="periodical">
       {{ periodical | strip }}
     </div>
@@ -196,7 +197,8 @@
         <a class="abstract btn btn-sm z-depth-0" role="button">Abs</a>
       {% endif %}
       {% if entry.doi %}
-        <a href="https://doi.org/{{ entry.doi }}" class="btn btn-sm z-depth-0" role="button">DOI</a>
+        <!--<a href="https://doi.org/{{ entry.doi }}" class="btn btn-sm z-depth-0" role="button">DOI</a>-->
+        <a class="doi-text btn btn-sm z-depth-0" role="button">DOI</a>
       {% endif %}
       {% if entry.arxiv %}
         <a href="http://arxiv.org/abs/{{ entry.arxiv }}" class="btn btn-sm z-depth-0" role="button">arXiv</a>
@@ -204,6 +206,9 @@
       {% if entry.bibtex_show %}
         <a class="bibtex btn btn-sm z-depth-0" role="button">Bib</a>
       {% endif %}
+      {%- comment -%} ▼ 여기서부터 추가 ▼ {%- endcomment -%}
+      <a class="cite-text btn btn-sm z-depth-0" role="button">Cite</a>
+      {%- comment -%} ▲ 여기까지 추가 ▲ {%- endcomment -%}
       {% if entry.html %}
         {% if entry.html contains '://' %}
           <a href="{{ entry.html }}" class="btn btn-sm z-depth-0" role="button">HTML</a>
@@ -386,6 +391,50 @@
         {% endhighlight %}
       </div>
     {% endif %}
+
+    {%- comment -%} ▼ 여기서부터 추가 ▼ {%- endcomment -%}
+    <!-- Hidden cite-text block -->
+    <div class="cite-text hidden">
+      <pre class="cite-clipboard">
+        {%- for author in entry.author_array -%}
+          {{- author.first | truncate: 1, "" }}. {{ author.last }}
+          {%- unless forloop.last %}, {% if forloop.index == author_array_size | minus: 1 %}and {% endif %}{% endunless -%}
+        {%- endfor -%}
+        {%- if entry.title %}, "{{ entry.title }},"{% endif -%}
+        {%- if entry.journal %} {{ entry.journal }}{% endif -%}
+        {%- if entry.booktitle %} {{ entry.booktitle }}{% endif -%}
+        {%- if entry.volume %} {{ entry.volume }}{% endif -%}
+        {%- if entry.year %} ({{ entry.year }}){% endif -%}
+        {%- if entry.pages %} {{ entry.pages }}{% endif -%}
+        .
+      </pre>
+      <button class="btn btn-sm btn-clipboard" onclick="
+        var text = this.parentElement.querySelector('.cite-clipboard').textContent.trim().replace(/\s+/g, ' ');
+        navigator.clipboard.writeText(text).then(function() {
+          var btn = event.target;
+          var original = btn.textContent;
+          btn.textContent = 'Copied!';
+          setTimeout(function(){ btn.textContent = original; }, 2000);
+        });
+      ">Copy</button>
+    </div>
+
+    {% if entry.doi %}
+    <!-- Hidden doi-text block -->
+    <div class="doi-text hidden">
+      <pre class="doi-clipboard">https://doi.org/{{ entry.doi }}</pre>
+      <button class="btn btn-sm btn-clipboard" onclick="
+        var text = this.parentElement.querySelector('.doi-clipboard').textContent.trim();
+        navigator.clipboard.writeText(text).then(function() {
+          var btn = event.target;
+          var original = btn.textContent;
+          btn.textContent = 'Copied!';
+          setTimeout(function(){ btn.textContent = original; }, 2000);
+        });
+      ">Copy</button>
+    </div>
+    {% endif %}
+    {%- comment -%} ▲ 여기까지 추가 ▲ {%- endcomment -%}
 
     {% if entry.video and site.enable_video_embedding %}
       <!-- Hidden video block -->

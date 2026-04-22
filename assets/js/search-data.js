@@ -586,6 +586,11 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/2026-03-24-KyushuUniv/";
+            },},{id: "news-共同研究のプレスリリース-press-release-on-joint-research",
+          title: '共同研究のプレスリリース / Press Release on Joint Research',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/2026-04-10-Press/";
             },},{id: "projects-project-1",
           title: 'project 1',
           description: "with background image",

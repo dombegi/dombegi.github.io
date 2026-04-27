@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-03-30'
+  last_updated: '2026-04-27'
 papers:
   7m9WB2wAAAAJ:2osOgNQ5qMEC:
     citations: 8
@@ -82,7 +82,7 @@ papers:
     title: Effect of He Plasma Irradiation on Recrystallization Properties of Tungsten
     year: '2019'
   7m9WB2wAAAAJ:NMxIlDl6LWMC:
-    citations: 1
+    citations: 2
     title: Dynamic response of atomic processes in detached helium plasma induced by high-density transient pulse in Magnum-PSI
     year: '2025'
   7m9WB2wAAAAJ:QIV2ME_5wuYC:
@@ -230,7 +230,7 @@ papers:
     title: Size distribution of nano-tendril bundles with various additional impurity gases
     year: '2020'
   7m9WB2wAAAAJ:r0BpntZqJG4C:
-    citations: 40
+    citations: 46
     title: Overview of the first Wendelstein 7-X long pulse campaign with fully water-cooled plasma facing components
     year: '2024'
   7m9WB2wAAAAJ:u-x6o8ySG0sC:

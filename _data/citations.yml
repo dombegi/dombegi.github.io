@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-04-27'
+  last_updated: '2026-05-25'
 papers:
   7m9WB2wAAAAJ:2osOgNQ5qMEC:
     citations: 8
@@ -10,7 +10,7 @@ papers:
     title: Field emission from nanostructured tendril bundles
     year: '2019'
   7m9WB2wAAAAJ:4DMP91E08xMC:
-    citations: 17
+    citations: 18
     title: 'Plasma-wall interaction studies in W7-X: main results from the recent divertor operations'
     year: '2021'
   7m9WB2wAAAAJ:4TOpqqG69KYC:
@@ -38,9 +38,13 @@ papers:
     title: Fuzzy nanostructure growth on Ta/Fe by He plasma irradiation
     year: '2016'
   7m9WB2wAAAAJ:BqipwSGYUEgC:
-    citations: 0
+    citations: 1
     title: Plasma pulse induced dust release from tungsten co-deposited layer
     year: '2026'
+  7m9WB2wAAAAJ:GnPB-g6toBAC:
+    citations: 0
+    title: Influence of heavier impurity deposition on Cr sputtering under He plasma exposure in multiple linear plasma devices
+    year: '2018'
   7m9WB2wAAAAJ:HDshCWvjkbEC:
     citations: 0
     title: Field emission current from protrusion structures formed by helium plasma with various impurity gases
@@ -122,7 +126,7 @@ papers:
     title: Effect of nanostructured layer thickness on tungsten surface on cathode spots dynamics
     year: '2016'
   7m9WB2wAAAAJ:UebtZRa9Y70C:
-    citations: 23
+    citations: 24
     title: Influence of heavier impurity deposition on surface morphology development and sputtering behavior explored in multiple linear plasma devices
     year: '2019'
   7m9WB2wAAAAJ:W7OEmFMy1HYC:
@@ -230,7 +234,7 @@ papers:
     title: Size distribution of nano-tendril bundles with various additional impurity gases
     year: '2020'
   7m9WB2wAAAAJ:r0BpntZqJG4C:
-    citations: 46
+    citations: 49
     title: Overview of the first Wendelstein 7-X long pulse campaign with fully water-cooled plasma facing components
     year: '2024'
   7m9WB2wAAAAJ:u-x6o8ySG0sC:

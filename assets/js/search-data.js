@@ -591,6 +591,11 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/2026-04-10-Press/";
+            },},{id: "news-第16回核融合エネルギー連合講演会",
+          title: '第16回核融合エネルギー連合講演会',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/2026-07-23-Rengo/";
             },},{id: "projects-project-1",
           title: 'project 1',
           description: "with background image",

@@ -12,3 +12,5 @@ Yukiya Numata
 Nanaka Sakamoto
 
 #### B4
+Shuntaro Enoki\
+Takakazu Kamiyama

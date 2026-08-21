@@ -591,11 +591,21 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/2026-04-10-Press/";
-            },},{id: "news-第16回核融合エネルギー連合講演会",
-          title: '第16回核融合エネルギー連合講演会',
+            },},{id: "news-共同研究-大気圧プラズマ発生装置のオペトレ-joint-research-atmospheric-pressure-plasma-generator-operation-training",
+          title: '(共同研究)大気圧プラズマ発生装置のオペトレ / (Joint Research) Atmospheric-Pressure Plasma Generator Operation Training',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/2026-07-08-Hub/";
+            },},{id: "news-第16回核融合エネルギー連合講演会-16th-joint-conference-for-fusion-energy",
+          title: '第16回核融合エネルギー連合講演会 / 16th Joint Conference for Fusion Energy',
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/2026-07-23-Rengo/";
+            },},{id: "news-プラズマ-核融合学会-高校生シンポジウム-the-japanese-society-for-plasma-and-fusion-research-high-school-student-symposium",
+          title: 'プラズマ・核融合学会　高校生シンポジウム / The Japanese Society for Plasma and Fusion Research High School Student...',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/2026-08-05-HighSymp/";
             },},{id: "projects-project-1",
           title: 'project 1',
           description: "with background image",
